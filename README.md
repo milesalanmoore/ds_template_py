@@ -13,7 +13,7 @@ For reproducibility in multi-language projects, I tend to also use makefiles to 
 Optional: Set up folders:
 
 ```bash
-mkdir data && mkdir src && mkdir tests
+mkdir data && mkdir tests
 ```
 
 Generate the `conda` environment:
