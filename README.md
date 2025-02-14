@@ -10,6 +10,12 @@ For reproducibility in multi-language projects, I tend to also use makefiles to 
 
 ## Set up
 
+Optional: Set up folders:
+
+```bash
+mkdir data && mkdir src && mkdir tests
+```
+
 Generate the `conda` environment:
 
 ```bash
